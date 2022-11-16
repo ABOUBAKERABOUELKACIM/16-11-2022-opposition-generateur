@@ -1,0 +1,19 @@
+﻿#detailImage {
+    object-fit: contain;
+    display: block;
+    margin: auto;
+    vertical-align: middle;
+}
+
+.br1 {
+    display: none;
+}
+
+.br2 {
+    display: block;
+}
+
+#detailDocHeader {
+    display: flex;
+    justify-content: space-between;
+}

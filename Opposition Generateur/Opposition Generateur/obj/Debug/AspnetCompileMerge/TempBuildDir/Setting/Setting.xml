@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Gazette>
+    <Num_pub />
+    <Date>0001-01-01T00:00:00+01:00</Date>
+  </Gazette>
+  <Gazette>
+    <Num_pub>04/2022</Num_pub>
+    <Date>2022-04-04T00:00:00+02:00</Date>
+  </Gazette>
+  <Gazette>
+    <Num_pub>07/2022</Num_pub>
+    <Date>2022-04-14T00:00:00+02:00</Date>
+  </Gazette>
+  <Gazette>
+    <Num_pub>05/2022</Num_pub>
+    <Date>2022-04-14T00:00:00+02:00</Date>
+  </Gazette>
+  <Gazette>
+    <Num_pub>12/2022</Num_pub>
+    <Date>2022-06-15T00:00:00+02:00</Date>
+  </Gazette>
+  <Gazette>
+    <Num_pub>18/2022</Num_pub>
+    <Date>2022-06-01T00:00:00+02:00</Date>
+  </Gazette>
+</DocumentElement>

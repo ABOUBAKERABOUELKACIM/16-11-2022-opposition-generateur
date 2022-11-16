@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="opos" targetNamespace="http://tempuri.org/opos.xsd" xmlns:mstns="http://tempuri.org/opos.xsd" xmlns="http://tempuri.org/opos.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="opos" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="opos" msprop:Generator_UserDSName="opos">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Dataopp" msprop:Generator_TableClassName="DataoppDataTable" msprop:Generator_TableVarName="tableDataopp" msprop:Generator_RowChangedName="DataoppRowChanged" msprop:Generator_TablePropName="Dataopp" msprop:Generator_RowDeletingName="DataoppRowDeleting" msprop:Generator_RowChangingName="DataoppRowChanging" msprop:Generator_RowEvHandlerName="DataoppRowChangeEventHandler" msprop:Generator_RowDeletedName="DataoppRowDeleted" msprop:Generator_RowClassName="DataoppRow" msprop:Generator_UserTableName="Dataopp" msprop:Generator_RowEvArgName="DataoppRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Numopposition" msprop:Generator_ColumnVarNameInTable="columnNumopposition" msprop:Generator_ColumnPropNameInRow="Numopposition" msprop:Generator_ColumnPropNameInTable="NumoppositionColumn" msprop:Generator_UserColumnName="Numopposition" type="xs:string" minOccurs="0" />
+              <xs:element name="marqueconteste" msprop:Generator_ColumnVarNameInTable="columnmarqueconteste" msprop:Generator_ColumnPropNameInRow="marqueconteste" msprop:Generator_ColumnPropNameInTable="marquecontesteColumn" msprop:Generator_UserColumnName="marqueconteste" type="xs:string" minOccurs="0" />
+              <xs:element name="imagecontes" msprop:Generator_ColumnVarNameInTable="columnimagecontes" msprop:Generator_ColumnPropNameInRow="imagecontes" msprop:Generator_ColumnPropNameInTable="imagecontesColumn" msprop:Generator_UserColumnName="imagecontes" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="imageant" msprop:Generator_ColumnVarNameInTable="columnimageant" msprop:Generator_ColumnPropNameInRow="imageant" msprop:Generator_ColumnPropNameInTable="imageantColumn" msprop:Generator_UserColumnName="imageant" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="marqueant" msprop:Generator_ColumnVarNameInTable="columnmarqueant" msprop:Generator_ColumnPropNameInRow="marqueant" msprop:Generator_ColumnPropNameInTable="marqueantColumn" msprop:Generator_UserColumnName="marqueant" type="xs:string" minOccurs="0" />
+              <xs:element name="desicion" msprop:Generator_ColumnVarNameInTable="columndesicion" msprop:Generator_ColumnPropNameInRow="desicion" msprop:Generator_ColumnPropNameInTable="desicionColumn" msprop:Generator_UserColumnName="desicion" type="xs:string" minOccurs="0" />
+              <xs:element name="statut" msprop:Generator_ColumnVarNameInTable="columnstatut" msprop:Generator_ColumnPropNameInRow="statut" msprop:Generator_ColumnPropNameInTable="statutColumn" msprop:Generator_UserColumnName="statut" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

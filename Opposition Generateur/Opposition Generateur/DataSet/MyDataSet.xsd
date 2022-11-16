@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="MyDataSet" targetNamespace="http://tempuri.org/MyDataSet.xsd" xmlns:mstns="http://tempuri.org/MyDataSet.xsd" xmlns="http://tempuri.org/MyDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="MyDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="MyDataSet" msprop:Generator_UserDSName="MyDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Marque_anterieure" msprop:Generator_TableClassName="Marque_anterieureDataTable" msprop:Generator_TableVarName="tableMarque_anterieure" msprop:Generator_TablePropName="Marque_anterieure" msprop:Generator_RowDeletingName="Marque_anterieureRowDeleting" msprop:Generator_RowChangingName="Marque_anterieureRowChanging" msprop:Generator_RowEvHandlerName="Marque_anterieureRowChangeEventHandler" msprop:Generator_RowDeletedName="Marque_anterieureRowDeleted" msprop:Generator_UserTableName="Marque_anterieure" msprop:Generator_RowChangedName="Marque_anterieureRowChanged" msprop:Generator_RowEvArgName="Marque_anterieureRowChangeEvent" msprop:Generator_RowClassName="Marque_anterieureRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Nom" msprop:Generator_ColumnVarNameInTable="columnNom" msprop:Generator_ColumnPropNameInRow="Nom" msprop:Generator_ColumnPropNameInTable="NomColumn" msprop:Generator_UserColumnName="Nom" type="xs:string" minOccurs="0" />
+              <xs:element name="Numero" msprop:Generator_ColumnVarNameInTable="columnNumero" msprop:Generator_ColumnPropNameInRow="Numero" msprop:Generator_ColumnPropNameInTable="NumeroColumn" msprop:Generator_UserColumnName="Numero" type="xs:string" minOccurs="0" />
+              <xs:element name="Date_depot" msprop:Generator_ColumnVarNameInTable="columnDate_depot" msprop:Generator_ColumnPropNameInRow="Date_depot" msprop:Generator_ColumnPropNameInTable="Date_depotColumn" msprop:Generator_UserColumnName="Date_depot" type="xs:string" minOccurs="0" />
+              <xs:element name="Titulaire" msprop:Generator_ColumnVarNameInTable="columnTitulaire" msprop:Generator_ColumnPropNameInRow="Titulaire" msprop:Generator_ColumnPropNameInTable="TitulaireColumn" msprop:Generator_UserColumnName="Titulaire" type="xs:string" minOccurs="0" />
+              <xs:element name="Classe_nice" msprop:Generator_ColumnVarNameInTable="columnClasse_nice" msprop:Generator_ColumnPropNameInRow="Classe_nice" msprop:Generator_ColumnPropNameInTable="Classe_niceColumn" msprop:Generator_UserColumnName="Classe_nice" type="xs:string" minOccurs="0" />
+              <xs:element name="Image" msprop:Generator_ColumnVarNameInTable="columnImage" msprop:Generator_ColumnPropNameInRow="Image" msprop:Generator_ColumnPropNameInTable="ImageColumn" msprop:Generator_UserColumnName="Image" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Marque_contester" msprop:Generator_TableClassName="Marque_contesterDataTable" msprop:Generator_TableVarName="tableMarque_contester" msprop:Generator_TablePropName="Marque_contester" msprop:Generator_RowDeletingName="Marque_contesterRowDeleting" msprop:Generator_RowChangingName="Marque_contesterRowChanging" msprop:Generator_RowEvHandlerName="Marque_contesterRowChangeEventHandler" msprop:Generator_RowDeletedName="Marque_contesterRowDeleted" msprop:Generator_UserTableName="Marque_contester" msprop:Generator_RowChangedName="Marque_contesterRowChanged" msprop:Generator_RowEvArgName="Marque_contesterRowChangeEvent" msprop:Generator_RowClassName="Marque_contesterRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Nom" msprop:Generator_ColumnVarNameInTable="columnNom" msprop:Generator_ColumnPropNameInRow="Nom" msprop:Generator_ColumnPropNameInTable="NomColumn" msprop:Generator_UserColumnName="Nom" type="xs:string" minOccurs="0" />
+              <xs:element name="Numero" msprop:Generator_ColumnVarNameInTable="columnNumero" msprop:Generator_ColumnPropNameInRow="Numero" msprop:Generator_ColumnPropNameInTable="NumeroColumn" msprop:Generator_UserColumnName="Numero" type="xs:string" minOccurs="0" />
+              <xs:element name="Date_depot" msprop:Generator_ColumnVarNameInTable="columnDate_depot" msprop:Generator_ColumnPropNameInRow="Date_depot" msprop:Generator_ColumnPropNameInTable="Date_depotColumn" msprop:Generator_UserColumnName="Date_depot" type="xs:string" minOccurs="0" />
+              <xs:element name="Titulaire" msprop:Generator_ColumnVarNameInTable="columnTitulaire" msprop:Generator_ColumnPropNameInRow="Titulaire" msprop:Generator_ColumnPropNameInTable="TitulaireColumn" msprop:Generator_UserColumnName="Titulaire" type="xs:string" minOccurs="0" />
+              <xs:element name="Classe_nice" msprop:Generator_ColumnVarNameInTable="columnClasse_nice" msprop:Generator_ColumnPropNameInRow="Classe_nice" msprop:Generator_ColumnPropNameInTable="Classe_niceColumn" msprop:Generator_UserColumnName="Classe_nice" type="xs:string" minOccurs="0" />
+              <xs:element name="Image" msprop:Generator_ColumnVarNameInTable="columnImage" msprop:Generator_ColumnPropNameInRow="Image" msprop:Generator_ColumnPropNameInTable="ImageColumn" msprop:Generator_UserColumnName="Image" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Alerte" msprop:Generator_TableClassName="AlerteDataTable" msprop:Generator_TableVarName="tableAlerte" msprop:Generator_TablePropName="Alerte" msprop:Generator_RowDeletingName="AlerteRowDeleting" msprop:Generator_RowChangingName="AlerteRowChanging" msprop:Generator_RowEvHandlerName="AlerteRowChangeEventHandler" msprop:Generator_RowDeletedName="AlerteRowDeleted" msprop:Generator_UserTableName="Alerte" msprop:Generator_RowChangedName="AlerteRowChanged" msprop:Generator_RowEvArgName="AlerteRowChangeEvent" msprop:Generator_RowClassName="AlerteRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Num_pub" msprop:Generator_ColumnVarNameInTable="columnNum_pub" msprop:Generator_ColumnPropNameInRow="Num_pub" msprop:Generator_ColumnPropNameInTable="Num_pubColumn" msprop:Generator_UserColumnName="Num_pub" type="xs:string" minOccurs="0" />
+              <xs:element name="Date_debut" msprop:Generator_ColumnVarNameInTable="columnDate_debut" msprop:Generator_ColumnPropNameInRow="Date_debut" msprop:Generator_ColumnPropNameInTable="Date_debutColumn" msprop:Generator_UserColumnName="Date_debut" type="xs:string" minOccurs="0" />
+              <xs:element name="Date_fin" msprop:Generator_ColumnVarNameInTable="columnDate_fin" msprop:Generator_ColumnPropNameInRow="Date_fin" msprop:Generator_ColumnPropNameInTable="Date_finColumn" msprop:Generator_UserColumnName="Date_fin" type="xs:string" minOccurs="0" />
+              <xs:element name="refalert" msprop:Generator_ColumnVarNameInTable="columnrefalert" msprop:Generator_ColumnPropNameInRow="refalert" msprop:Generator_ColumnPropNameInTable="refalertColumn" msprop:Generator_UserColumnName="refalert" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

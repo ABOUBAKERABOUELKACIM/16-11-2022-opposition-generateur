@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Myds" targetNamespace="http://tempuri.org/Myds.xsd" xmlns:mstns="http://tempuri.org/Myds.xsd" xmlns="http://tempuri.org/Myds.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Myds" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Myds" msprop:Generator_UserDSName="Myds">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Marque" msprop:Generator_TableClassName="MarqueDataTable" msprop:Generator_TableVarName="tableMarque" msprop:Generator_TablePropName="Marque" msprop:Generator_RowDeletingName="MarqueRowDeleting" msprop:Generator_RowChangingName="MarqueRowChanging" msprop:Generator_RowEvHandlerName="MarqueRowChangeEventHandler" msprop:Generator_RowDeletedName="MarqueRowDeleted" msprop:Generator_UserTableName="Marque" msprop:Generator_RowChangedName="MarqueRowChanged" msprop:Generator_RowEvArgName="MarqueRowChangeEvent" msprop:Generator_RowClassName="MarqueRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Image" msprop:Generator_ColumnVarNameInTable="columnImage" msprop:Generator_ColumnPropNameInRow="Image" msprop:Generator_ColumnPropNameInTable="ImageColumn" msprop:Generator_UserColumnName="Image" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="Numero_titre" msprop:Generator_ColumnVarNameInTable="columnNumero_titre" msprop:Generator_ColumnPropNameInRow="Numero_titre" msprop:Generator_ColumnPropNameInTable="Numero_titreColumn" msprop:Generator_UserColumnName="Numero_titre" type="xs:string" minOccurs="0" />
+              <xs:element name="Nom_marque" msprop:Generator_ColumnVarNameInTable="columnNom_marque" msprop:Generator_ColumnPropNameInRow="Nom_marque" msprop:Generator_ColumnPropNameInTable="Nom_marqueColumn" msprop:Generator_UserColumnName="Nom_marque" type="xs:string" minOccurs="0" />
+              <xs:element name="Etat" msprop:Generator_ColumnVarNameInTable="columnEtat" msprop:Generator_ColumnPropNameInRow="Etat" msprop:Generator_ColumnPropNameInTable="EtatColumn" msprop:Generator_UserColumnName="Etat" type="xs:string" minOccurs="0" />
+              <xs:element name="Titulaire" msprop:Generator_ColumnVarNameInTable="columnTitulaire" msprop:Generator_ColumnPropNameInRow="Titulaire" msprop:Generator_ColumnPropNameInTable="TitulaireColumn" msprop:Generator_UserColumnName="Titulaire" type="xs:string" minOccurs="0" />
+              <xs:element name="Date_depot" msprop:Generator_ColumnVarNameInTable="columnDate_depot" msprop:Generator_ColumnPropNameInRow="Date_depot" msprop:Generator_ColumnPropNameInTable="Date_depotColumn" msprop:Generator_UserColumnName="Date_depot" type="xs:string" minOccurs="0" />
+              <xs:element name="Date_expiration" msprop:Generator_ColumnVarNameInTable="columnDate_expiration" msprop:Generator_ColumnPropNameInRow="Date_expiration" msprop:Generator_ColumnPropNameInTable="Date_expirationColumn" msprop:Generator_UserColumnName="Date_expiration" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

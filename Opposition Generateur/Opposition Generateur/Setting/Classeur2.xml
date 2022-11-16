@@ -1,0 +1,426 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40"
+ xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>OUAHID KIADE</Author>
+  <LastAuthor>ouahi</LastAuthor>
+  <Created>2022-11-09T10:28:27Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>25020</WindowHeight>
+  <WindowWidth>32767</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+  <FutureVer>11</FutureVer>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Feuil1">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="81" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
+   <Column ss:Width="55.5" ss:Span="1"/>
+   <Row>
+    <Cell><Data ss:Type="String">Valeur 1</Data></Cell>
+    <Cell><Data ss:Type="String">Valeur 2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">a</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">aa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">b</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">bb</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">c</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">cc</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">d</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">dd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">e</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ee</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">f</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ff</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">j</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jj</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">h</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hh</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">i</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ii</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">j</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jj</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">k</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">kk</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">l</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ll</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">m</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">mm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">n</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">nn</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">o</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">p</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">pp</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">q</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">qq</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">r</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">rr</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">s</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ss</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">t</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tt</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">v</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">vv</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">w</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ww</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">u</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">uu</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">z</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">zz</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">x</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">xx</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">y</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">yy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">aa</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">aaa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">bb</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">bbb</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">cc</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ccc</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">dd</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ddd</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ee</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">eee</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ff</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">fff</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jj</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jjj</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hh</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">hhh</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ii</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">iii</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jj</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">jjj</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">kk</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">kkk</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ll</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">lll</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">mm</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">mmm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">nn</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">nnn</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">oo</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ooo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">pp</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ppp</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">qq</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">qqq</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">rr</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">rrr</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ss</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sss</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tt</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ttt</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">vv</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">vvv</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ww</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">www</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">uu</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">uuu</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">zz</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">zzz</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">xx</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">xxx</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">yy</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">yyy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">m</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">n</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">s</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">z</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">k</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">c</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">q</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">k</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">q</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">c</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">o</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ou</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">au</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ou</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">eu</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ou</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">eu</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">au</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">io</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">yo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">f</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ph</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ks</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">w</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ou</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">j</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">g</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">p</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">b</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">r</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">gh</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">aa</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">a3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ka</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">9a</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">qu</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ha</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">7a</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ch</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">sh</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">r</Data></Cell>
+    <Cell><Data ss:Type="String">gh</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">s</Data></Cell>
+    <Cell><Data ss:Type="String">c</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ca</Data></Cell>
+    <Cell><Data ss:Type="String">k</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aut</Data></Cell>
+    <Cell><Data ss:Type="String">au</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aux</Data></Cell>
+    <Cell><Data ss:Type="String">au</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ou</Data></Cell>
+    <Cell><Data ss:Type="String">au</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">eut</Data></Cell>
+    <Cell><Data ss:Type="String">au</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <TopRowVisible>63</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>77</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x2:MapInfo x2:HideInactiveListBorder="false">
+  <x2:Schema x2:ID="Schema1" x2:Namespace=""><xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"><xsd:element nillable="true" name="DocumentElement"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" maxOccurs="unbounded" nillable="true" name="parametre_x0020_recherche_x0020_phonétique" form="unqualified"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Valeur_x0020_1" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Valeur_x0020_2" form="unqualified"></xsd:element></xsd:sequence></xsd:complexType></xsd:element></xsd:sequence></xsd:complexType></xsd:element></xsd:schema></x2:Schema>
+  <x2:Map x2:ID="DocumentElement_Mappage" x2:SchemaID="Schema1"
+   x2:RootElement="DocumentElement">
+   <x2:Entry x2:Type="table" x2:ID="1" x2:ShowTotals="false">
+    <x2:Range>Feuil1!R2C1:R81C2</x2:Range>
+    <x2:HeaderRange>R1C1</x2:HeaderRange>
+    <x:FilterOn>True</x:FilterOn>
+    <x2:XPath>/DocumentElement/parametre_x0020_recherche_x0020_phonétique</x2:XPath>
+    <x2:Field x2:ID="Valeur 1">
+     <x2:Range>RC</x2:Range>
+     <x2:XPath>Valeur_x0020_1</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="Valeur 2">
+     <x2:Range>RC[1]</x2:Range>
+     <x2:XPath>Valeur_x0020_2</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+   </x2:Entry>
+  </x2:Map>
+ </x2:MapInfo>
+ <x2:Binding x2:ID="Binding1" x2:LoadMode="normal">
+  <x2:MapID>DocumentElement_Mappage</x2:MapID>
+<udc:DataSource MajorVersion="1" MinorVersion="0" xmlns:udc="http://schemas.microsoft.com/data/udc">
+  <udc:Type Type="XMLFile" MajorVersion="1" MinorVersion="0"/>
+  <udc:Name>Binding1</udc:Name>
+  <udc:ConnectionInfo Purpose="Query">
+    <udcxf:File xmlns:udcxf="http://schemas.microsoft.com/data/udc/xmlfile">C:\Users\ouahi\Desktop\Setting phonétique search.xml</udcxf:File>
+  </udc:ConnectionInfo>
+</udc:DataSource>
+ </x2:Binding>
+</Workbook>

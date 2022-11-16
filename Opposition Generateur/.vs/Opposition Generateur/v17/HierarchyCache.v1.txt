@@ -1,0 +1,278 @@
+﻿++Solution 'Opposition Generateur' ‎(1 sur 1 projets)
+i:{00000000-0000-0000-0000-000000000000}:Opposition Generateur.sln
+++Opposition Generateur
+i:{00000000-0000-0000-0000-000000000000}:Opposition Generateur
+++Properties
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\properties\
+++Références
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++App_Data
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\app_data\
+++Assets
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\assets\
+++Brand_image
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\assets\brand_image\
+++Css
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\assets\css\
+++defaultstyle.css
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\assets\css\defaultstyle.css
+++Sidemenustyle.css
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\assets\css\sidemenustyle.css
+++Img
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\assets\img\
+++Crystal_report
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\crystal_report\
+++DataSet
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\dataset\
+++Models
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\models\
+++Setting
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\setting\
+++Users_profile_picture
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\users_profile_picture\
+++Views
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\
+++Ajouter alerte.aspx
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\ajouter alerte.aspx
+++Authentification.aspx
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\authentification.aspx
+++Formulaire.aspx
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\formulaire.aspx
+++Formulaires.aspx
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\formulaires.aspx
+++Generer pdf.aspx
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\generer pdf.aspx
+++Historique.aspx
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\historique.aspx
+++Parametre.aspx
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\parametre.aspx
+++Recherche Bd.aspx
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\recherche bd.aspx
+++Recherche marque.aspx
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\recherche marque.aspx
+++Recherche ompic.aspx
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\recherche ompic.aspx
+++Recherche phonetique.aspx
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\recherche phonetique.aspx
+++Resultat.aspx
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\resultat.aspx
+++Site1.Master
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\site1.master
+++WordDocs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\worddocs\
+++packages.config
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\packages.config
+++Web.config
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\web.config
+++AssemblyInfo.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\properties\assemblyinfo.cs
+++ClosedXML
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++CrystalDecisions.CrystalReports.Engine
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++CrystalDecisions.ReportSource
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++CrystalDecisions.Shared
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++DocumentFormat.OpenXml
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++EntityFramework
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++EntityFramework.SqlServer
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++ExcelDataReader
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++ExcelDataReader.DataSet
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++ExcelNumberFormat
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++Microsoft.CSharp
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++Newtonsoft.Json
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.ComponentModel.DataAnnotations
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.Configuration
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.Core
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.Data
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.Data.DataSetExtensions
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.Data.SQLite
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.Data.SQLite.EF6
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.Data.SQLite.Linq
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.Drawing
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.EnterpriseServices
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.IO.Compression
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.Net.Http
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.Numerics
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.Web
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.Web.ApplicationServices
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.Web.DynamicData
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.Web.Entity
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.Web.Extensions
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.Web.Services
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.Xml
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++System.Xml.Linq
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++WebDriver
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++WebDriver.Support
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++WindowsBase
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:
+++Ipp.mdf
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\app_data\ipp.mdf
+++676-6764065_default-image-png.png
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\assets\img\676-6764065_default-image-png.png
+++ant-design_setting-filledsetting.png
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\assets\img\ant-design_setting-filledsetting.png
+++carbon_user-filledicon.png
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\assets\img\carbon_user-filledicon.png
+++clarity_form-linelogo.png
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\assets\img\clarity_form-linelogo.png
+++ic_round-searchsearch.png
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\assets\img\ic_round-searchsearch.png
+++logoipp.png
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\assets\img\logoipp.png
+++logowhiteversion.png
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\assets\img\logowhiteversion.png
+++mdi_account-supervisor-circleicon.jpg
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\assets\img\mdi_account-supervisor-circleicon.jpg
+++CrystalReport1.rpt
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\crystal_report\crystalreport1.rpt
+++CrystalReport2.rpt
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\crystal_report\crystalreport2.rpt
+++MyDataSet.xsd
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\dataset\mydataset.xsd
+++Myds.xsd
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\dataset\myds.xsd
+++Alerte.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\models\alerte.cs
+++FormulaireOpposition.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\models\formulaireopposition.cs
+++Gazette.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\models\gazette.cs
+++Marque.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\models\marque.cs
+++Marque_Model_App_V1.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\models\marque_model_app_v1.cs
+++Marque_Model_App_V2.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\models\marque_model_app_v2.cs
+++Marque_TmOmpicModel.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\models\marque_tmompicmodel.cs
+++Model.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\models\model.cs
+++Opposition.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\models\opposition.cs
+++Country Codes.txt
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\setting\country codes.txt
+++Setting phonétique search.xml
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\setting\setting phonétique search.xml
+++Setting.xml
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\setting\setting.xml
+++Words list.txt
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\setting\words list.txt
+++Ajouter alerte.aspx.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\ajouter alerte.aspx.cs
+++Ajouter alerte.aspx.designer.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\ajouter alerte.aspx.designer.cs
+++Authentification.aspx.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\authentification.aspx.cs
+++Authentification.aspx.designer.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\authentification.aspx.designer.cs
+++Formulaire.aspx.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\formulaire.aspx.cs
+++Formulaire.aspx.designer.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\formulaire.aspx.designer.cs
+++Formulaires.aspx.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\formulaires.aspx.cs
+++Formulaires.aspx.designer.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\formulaires.aspx.designer.cs
+++Generer pdf.aspx.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\generer pdf.aspx.cs
+++Generer pdf.aspx.designer.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\generer pdf.aspx.designer.cs
+++Historique.aspx.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\historique.aspx.cs
+++Historique.aspx.designer.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\historique.aspx.designer.cs
+++Parametre.aspx.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\parametre.aspx.cs
+++Parametre.aspx.designer.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\parametre.aspx.designer.cs
+++Recherche Bd.aspx.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\recherche bd.aspx.cs
+++Recherche Bd.aspx.designer.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\recherche bd.aspx.designer.cs
+++Recherche marque.aspx.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\recherche marque.aspx.cs
+++Recherche marque.aspx.designer.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\recherche marque.aspx.designer.cs
+++Recherche ompic.aspx.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\recherche ompic.aspx.cs
+++Recherche ompic.aspx.designer.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\recherche ompic.aspx.designer.cs
+++Recherche phonetique.aspx.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\recherche phonetique.aspx.cs
+++Recherche phonetique.aspx.designer.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\recherche phonetique.aspx.designer.cs
+++Resultat.aspx.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\resultat.aspx.cs
+++Resultat.aspx.designer.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\resultat.aspx.designer.cs
+++Site1.Master.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\site1.master.cs
+++Site1.Master.designer.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\views\site1.master.designer.cs
+++M7.docx
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\worddocs\m7.docx
+++Web.Debug.config
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\web.debug.config
+++Web.Release.config
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\web.release.config
+++Ipp_log.ldf
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\app_data\ipp_log.ldf
+++CrystalReport1.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\crystal_report\crystalreport1.cs
+++CrystalReport2.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\crystal_report\crystalreport2.cs
+++MyDataSet.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\dataset\mydataset.cs
+++MyDataSet.Designer.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\dataset\mydataset.designer.cs
+++MyDataSet.xsc
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\dataset\mydataset.xsc
+++MyDataSet.xss
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\dataset\mydataset.xss
+++Myds.Designer.cs
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\dataset\myds.designer.cs
+++Myds.xsc
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\dataset\myds.xsc
+++Myds.xss
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\dataset\myds.xss
+++téléchargement.png
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\assets\img\téléchargement.png
+++cropped-logo-2.png
+i:{b775ed68-720e-45bb-b760-9bd8e3c9bfea}:c:\users\ipperformance\desktop\projectv04\opposition generateur\opposition generateur\assets\img\cropped-logo-2.png

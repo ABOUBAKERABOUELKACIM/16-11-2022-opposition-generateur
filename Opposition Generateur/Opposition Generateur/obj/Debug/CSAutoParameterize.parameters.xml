@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ConString-Web.config Connection String" description="ConString Chaîne de connexion utilisée dans web.config par l’application pour accéder à la base de données." defaultValue="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Ipp.mdf;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\IPPERFORMANCE\\Documents\\Opposition\ Generateur\\Opposition\ Generateur\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConString']/@connectionString" />
+  </parameter>
+  <parameter name="IppConnectionString-Web.config Connection String" description="IppConnectionString Chaîne de connexion utilisée dans web.config par l’application pour accéder à la base de données." defaultValue="Data Source=DESKTOP-SCOF8PR\MSSQLSERVER01;Initial Catalog=Ipp;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\IPPERFORMANCE\\Documents\\Opposition\ Generateur\\Opposition\ Generateur\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='IppConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="IppConnectionString1-Web.config Connection String" description="IppConnectionString1 Chaîne de connexion utilisée dans web.config par l’application pour accéder à la base de données." defaultValue="Data Source=DESKTOP-USSC1KP\SQLEXPRESS;Initial Catalog=Ipp;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\IPPERFORMANCE\\Documents\\Opposition\ Generateur\\Opposition\ Generateur\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='IppConnectionString1']/@connectionString" />
+  </parameter>
+</parameters>

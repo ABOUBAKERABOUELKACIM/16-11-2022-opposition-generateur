@@ -1,0 +1,326 @@
+﻿
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#page-top {
+    width: 100%;
+}
+
+    #page-top > form {
+        display: flex;
+    }
+
+        #page-top > form #container {
+            width: 100%;
+            padding: 0px 4px;
+            border: 2px solid whitesmoke;
+            height: 100vh;
+        }
+
+            #page-top > form #container > .header > h2 {
+                margin-top:70px;
+                font-family: 'Poppins', sans-serif;
+                text-align: center;
+                color: darkslategray;
+                background-color: #EFEEF0;
+                padding: 10px 0px;
+                border-radius: 10px;
+                font-size: 14px;
+            }
+
+            #page-top > form #container .form-group {
+                display: flex;
+            }
+
+.nature-droit-anterieur-container .form-group label {
+    margin-left: 5px;
+}
+
+.nature-droit-anterieur-container .form-group {
+    align-items: baseline;
+}
+
+.marque-anterieure-container .form-group {
+    width: 100%;
+    align-items: flex-end;
+}
+
+  
+.marque-contester-container .form-group {
+    width: 100%;
+    align-items: flex-end;
+}
+
+.marque-anterieure-container .form-group div {
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.marque-contester-container .form-group div {
+    margin-left: 5px;
+}
+
+.marque-anterieure-container .form-group div label {
+    margin-left: 5px;
+}
+
+.marque-contester-container .form-group div label {
+    margin-left: 5px;
+}
+
+#page-top > form #container h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color: darkslategray;
+    text-decoration: underline;
+}
+
+#page-top > form #container label {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+
+.marque-anterieure-container .form-group {
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.marque-contester-container .form-group {
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.AddForm {
+    font-family: 'Poppins', sans-serif;
+    outline: 0px;
+    border: 0px;
+    border-radius: 8px;
+    background-color: crimson;
+    color: white;
+    padding: 5px 5px;
+    transition: 0.3s ease-in-out;
+    width: 200px;
+    display: inline-block;
+    margin: 0px 4px;
+    font-size: 14px;
+}
+
+
+.AddForm:hover {
+    background: linear-gradient(red,black);
+}
+
+.ViewForms {
+    font-family: 'Poppins', sans-serif;
+    outline: 0px;
+    border: 0px;
+    border-radius: 8px;
+    background-color: crimson;
+    color: white;
+    padding: 5px 5px;
+    transition: 0.3s ease-in-out;
+    width: 200px;
+    display: inline-block;
+    font-size: 14px;
+    margin: 0px 4px;
+}
+
+    .ViewForms:hover {
+        background: linear-gradient(red,black);
+    }
+.header img {
+    width: 90px;
+    padding-top: 20px;
+    height: 120px;
+   
+}
+
+#user_account {
+    background:linear-gradient(red,black);
+    width: 160px;
+    height: 100vh;
+    position: fixed;
+    z-index: 7;
+}
+
+.box {
+    min-width: 160px;
+    height: 100vh;
+}
+
+#profile_pic {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+
+#user_account p {
+    color: white;
+    font-family: 'Poppins';
+}
+
+#user_account__username {
+    font-size: 15px;
+}
+
+#user_account__role {
+    font-size: 12px;
+}
+
+#user_account .btn_menu:hover {
+    background-color: rgb(219,221,223, 0.4);
+}
+
+#user_account .btn_dropdownitem:hover {
+    background-color: rgb(219,221,223, 0.4);
+}
+
+.btn_menu {
+    width: 100%;
+    border: 0px;
+    outline: 0px;
+    padding: 5px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: #ffffff1c;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    color: white;
+    font-size: 12px;
+    padding-left: 13px;
+    font-family: 'Poppins';
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn_dropdownitem {
+    width: 100%;
+    border: 0px;
+    outline: 0px;
+    padding: 5px 0px;
+    text-align: left;
+    background-color: #ffffff1c;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    color: white;
+    font-size: 10px;
+    padding-left: 30px;
+    font-family: 'Poppins';
+}
+
+.fa-sort-down {
+    padding-right: 5px;
+}
+
+.dropdown {
+    height: 0px;
+    overflow-y: hidden;
+    top: -3px;
+    left: -5px;
+}
+
+.show {
+    height: auto;
+}
+
+#btn_Deconnecter {
+    width: 100%;
+    border: 0px;
+    outline: 0px;
+    padding: 5px 0px;
+    text-align: left;
+    background-color: #ffffff1c;
+    border-radius: 5px;
+    color: white;
+    font-size: 12px;
+    padding-left: 13px;
+    font-family: 'Poppins';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+@media (max-width:600px) {
+    #page-top {
+        display: block;
+    }
+
+        #page-top > form #container > .header img {
+            width: 70px;
+            height: 70px;
+        }
+
+    .marque-anterieure-container .form-group div {
+        margin-top: 10px;
+    }
+
+    .marque-contester-container .form-group div {
+        margin-top: 10px;
+    }
+}
+
+@media (max-width:459px) {
+    .ViewForms {
+        display: block;
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+}
+#Pagination___ {
+    float: right;
+    display: flex;
+    gap: 3px;
+    align-items: center;
+    padding-right: 35px;
+}
+
+#Precedent {
+    border: 1px solid rgb(116, 116, 116, 0.78);
+    background-color: #dd7973;
+    padding: 3px 5px;
+    border-radius: 5px;
+    font-family: 'Poppins';
+    border-radius: 0%;
+    font-size: 13px;
+    color: white;
+}
+
+#Suivant {
+    border: 1px solid rgb(116, 116, 116, 0.78);
+    background-color: #dd7973;
+    padding: 3px 5px;
+    border-radius: 5px;
+    font-family: 'Poppins';
+    border-radius: 0%;
+    color: white;
+    font-size: 13px;
+    width: 79px;
+}
+.btnnewstyle {
+   
+    outline: 0px;
+    border: 0px;
+    border-radius: 8px;
+    background-color: lightcoral;
+    color: white;
+    border-radius: 5px;
+    font-family: 'Poppins';
+    padding: 5px 5px;
+    transition: 0.3s ease-in-out;
+    width: 100px;
+    font-size: 14px;
+
+
+
+}
+.btnnewstyle:hover {
+    background-color: white;
+    color: red;
+}
+
+
